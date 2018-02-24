@@ -1,7 +1,7 @@
 
 (function() {
   'use strict';
-
+  
   var injectedForecast = {
     key: 'newyork',
     label: 'New York, NY',
